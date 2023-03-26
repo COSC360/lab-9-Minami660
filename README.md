@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/j2uwPckq)
 # Lab 9: Database and Data Storage with PHP
 
 In this lab, you will to explore how to connect a MySQL database to a web page with PHP as well as validating passwords with JavaScript. It will provide an overview of how data can be exchanged between a browser and server to generate and handle dynamic content. The goal is to thoroughly study the code examples and experiment with them in order to understand the underlying concepts.
